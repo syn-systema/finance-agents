@@ -1,0 +1,10 @@
+anthropic
+pandas
+numpy
+ta
+scipy
+plotly
+yfinance
+streamlit
+python-dotenv
+openai
